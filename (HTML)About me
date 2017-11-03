@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Us</title>
+<style>
+h1{background-color:#eaeaea;
+	color:#828182;
+	text-align:center;}
+	h2{color:#000001;
+		font-family:Times New Roman,serif;
+		font-weight:bold;
+		background-color:#eaeaea;
+		}
+p{font-size:24px;
+	color:e4710c;
+  background-color:#9CA2A2;
+	}
+</style>
+<link rel="stylesheet" href="style.css">
+</head>
 
+<body background-image="bg.jpg">
+
+<h1>About us</h1>
+<div>
+<img src="ser.jpg" align="right" width="40%" height="328s">
+<p>Why Us?</p>
+<p>We all come to work everyday because we want to solve the problem that costumer face. Costumers don't know what headphone to buy, what standard they need and how much should they pay for them.
+Our product provide more longer warranty and higher quality for our costumers.We provide  professional help for all of our costumers since we've been in business.
+To repay costumer for supporting us, we are going to work our hardest to give them the best service.</p>
+<p>We have introduced a range of new content to the website, including a demo to provide you with a walk through of out products.</p>
+<br><br>
+<div id ="aboutUs">
+
+<ul style="font-size:30px;color:#036fea">
+<li>we have been in business since 2017 and we begin our website in 2017.</li>
+<li>We are a small team in Malaysia. We love music and great headphone.</li>
+<li>We always try hard to give our costumers the best services.Besides, we <br>provides return and exchange of our product within 30 days if there are <br>any damage on our products.</li>
+</ul>
+</div>
+</body>
+</html>
