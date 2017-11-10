@@ -14,6 +14,7 @@ h1{background-color:#eaeaea;
 p{font-size:24px;
 	color:e4710c;
   background-color:#9CA2A2;
+ master
 	}
 </style>
 <link rel="stylesheet" href="style.css">
@@ -38,5 +39,6 @@ To repay costumer for supporting us, we are going to work our hardest to give th
 <li>We always try hard to give our costumers the best services.Besides, we <br>provides return and exchange of our product within 30 days if there are <br>any damage on our products.</li>
 </ul>
 </div>
+ master
 </body>
 </html>
