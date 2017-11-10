@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Designer X</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<img src="images/hp1.jpg" alt="Image" style=float:left;padding-right:50px; height="500" width="500">
+	<h2>Designer X</a></h2>
+	<p>This is our custom designed signiture headphone. Featuring a strong but flexible structure, the Designer X
+	offers leading class comfort and listening pleasure. Designer X has an on-ear cushion design and can provide 
+	robust, immersive and Hi-fidelity sound.</p>
+	<h3>Specifications</h3>
+	<ul>
+		<li>Product Dimensions	5.5 x 2.5 x 6.8 inches</li>
+		<li>Item Weight	3.7 ounces</li>
+		<li>Bluetooth Version: 4.0</li>
+		<li>Range: 33 feet (10 meters)</li>
+		<li>Talking Time: Around 15 hours</li>
+		<li>Playback Time: Around 13 hours</li>
+		<li>Charging Time: 4 hours</li>
+		<li>Charging Voltage: 5V</li>
+		<li>Battery Capacity: 420mAh</li>			
+	</ul>
+
+<button onclick="goBack()">Go Back</button><br><br>
+<label>Quantity:
+    <input type="text" value="" name="Quantity" id="Quantity"></label>
+    <span>@RM35.90</span>
+	<button onclick="addCart()">Add to Cart</button>
+<script>
+function goBack() {
+    window.history.back();
+}
+function addCart(){
+			alert("Added to cart!");
+		}
+</script>
+</body>
